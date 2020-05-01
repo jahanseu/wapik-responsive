@@ -1,0 +1,435 @@
+.banner{
+  background-image: url(../images/img1.png);
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size: cover;
+  height: 650px;
+  
+  
+}
+.banner::before{
+	content: '';
+	position: absolute;
+	width: 100%;
+	height: 650px;
+	top: 0;
+	left: 0;
+	background-color: rgba(63, 119, 117, 0.90);
+    
+}
+.navbar-light .navbar-nav .nav-link{
+	color:#fff;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+	color:#fff;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link-active, .navbar{
+	color: #fff;
+	font-weight: 600;
+}
+li.nav-item{
+	margin-left: 15px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #708e8e;
+    border-color: #708e8e;
+    text-transform: uppercase;
+
+}
+.btn-primary:hover{
+    background-color: transparent;
+    border-color: #708e8e;
+}
+.container{
+	border-bottom: 3px solid #fff;
+
+}
+.navbar{
+	
+padding: .5rem 0;
+
+}
+.phone{
+border-left: 1px solid #fff;
+padding-left: 15px;
+color: #fff;
+
+}
+.phone i{
+	color: #b2bebe;
+	margin-right: 15px;
+}
+.content{
+	padding-left: 100px;
+}
+.content h1{
+  font-size: 38px;
+  color: #fff;
+  font-weight: 700;
+}
+.content p{
+  font-size: 16px;
+  color: #fff;
+  font-weight: 600;
+}
+.content .btn-custom{
+  background: #6fb048;
+  color: #fff;
+  font-size: 14px;
+  text-transform: uppercase;
+  padding: 16px 50px;
+}
+.content .btn-custom:hover{
+	background: transparent;
+	border: 1px solid #6fb048;
+	color: #fff;
+}
+.hg{
+	min-height: 650px;
+}
+.built{
+	background: #eef1ec;
+}
+.feature{
+   padding-top: 100px;
+   padding-bottom: 125px;
+   
+}
+.feature h1{
+  color:#0f5f5c;
+  font-size: 32px;
+  
+}
+a img{
+	width: 100px;
+}
+
+.feature span{
+	height: 2px;
+	width: 65px;
+	background: #83a7a5;
+	display:inline-block;
+
+    
+}
+.feature h3{
+	color:#0f5f5c; 
+			}
+.feature p{
+  color: #83a7a5;
+  font-size: 15px;
+  margin-top: 22px;
+  margin-bottom: 68px;
+  
+}
+.test{
+	height: 100px;
+	position: relative;
+	margin-top: 30px;
+}
+.feature .test span:nth-child(1){
+	position: absolute;
+	width: 3px;
+	height: 90px;
+	top:0;
+	left: 50%;
+	transform:translateX(-50%);
+	background: #d8d4d4;
+
+}
+.feature .test span:nth-child(2){
+	width: 90px;
+	height: 3px;
+	position: absolute;
+	top: 90px;
+	left: 50%;
+	transform: translateX(-50%);
+	background: #d8d4d4;
+}
+.feature h5{
+	display: inline-block;
+	margin-left: 10px;
+	color:#0f5f5c; 
+	}
+.feature i{
+	color: #6fb048;
+	font-size: 30px;
+}
+.template{
+	background: #eef1ec;
+   padding-top: 100px;
+
+}
+.template h1{
+  color:#0f5f5c;
+  font-size: 32px;
+  
+}
+
+
+.template span{
+	height: 2px;
+	width: 65px;
+	background: #83a7a5;
+	display:inline-block;
+
+    
+}
+.template h3{
+	color:#0f5f5c; 
+			}
+.template p{
+  color: #83a7a5;
+  font-size: 15px;
+  margin-top: 22px;
+  margin-bottom: 68px;
+  
+}
+.template h5{
+	display: inline-block;
+	margin-left: 10px;
+	color:#0f5f5c; 
+	}
+
+.template p{
+  color: #83a7a5;
+  font-size: 15px;
+  margin-top: 22px;
+  margin-bottom: 68px;
+  
+}
+
+.type ul li{
+	display: inline-block;
+	font-size: 15px;
+     color: #83a7a5;
+     padding-right: 30px;
+}
+.type ul li i{
+font-size: 15px;
+color: #83a7a5;
+
+}
+.responsive{
+	padding-bottom: 50px;
+}
+.text{
+	margin: left;
+}
+.acme{
+	background: #fff;
+}
+.theme{
+	padding-top: 230px;
+	padding-bottom: 350px;
+}
+
+.theme h5{
+
+
+color: #bbcdcc;
+}
+.theme p{
+	color: #9dc787;
+	margin-bottom: 20px;
+}
+
+.theme h6{
+	color: #83a7a5;
+	
+}
+
+.female{
+	padding-top: 135px;
+	padding-bottom: 135px;
+}
+.map{
+	padding-top: 160px;
+}
+
+.mapping{
+	padding-top: 60px;
+
+}
+.customize{
+	background: #fff;
+	width: 100%;
+	padding-right: 20px;
+}
+.pricing_table{
+color: #6fb048;
+font-size: 30px;
+background: #fff;
+padding-top: 95px;
+padding-bottom: 95px;
+}
+.pricing_table h5{
+	font-size: 15px;
+	color: #0f5f5c;
+}
+.pricing_table h1{
+	font-weight: 700;
+}
+.pricing_table h6{
+color: #0f5f5c;	
+}
+.pricing_table a{
+	margin-bottom: 25px;
+}
+.btn-price{
+padding: 5px 15px;
+background: #83a7a5;
+border: 1px solid #83a7a5;
+
+}
+
+
+.price-dt{
+	border: 1px solid #83a7a5;
+	padding: 30px;
+}
+.price-dt:hover .btn-price{
+background: #6fb048;
+	border: 1px solid #6fb048;
+}
+
+.price-dt:hover h5{
+	color: #6fb048;
+	font-weight: 900;
+}
+.list ul{
+list-style: none;
+
+}
+.list ul{
+font-size: 14px;
+/*margin-left: 15px;*/
+color: #83a7a5;
+}
+.list ul li i{
+font-size: 14px;
+color: #83a7a5;
+}
+
+.plane{
+	padding-top: 38px;
+	padding-bottom: 16px;
+}
+.help{
+padding-top: 54px;
+}
+.help h1{
+color: #6fb048;
+}
+
+.help p{
+	margin-top: 16px;
+
+}
+.help h4{
+	font-size: 18px;
+    color: #0f5f5c;
+}
+.help i{
+	height: 50px;
+}
+.banner-2{
+  background-image: url(../images/img1.png);
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size: cover;
+  height: 202px; 
+  background-color: rgba(239, 241, 237, 0.85);
+}
+.compp{
+height: 202px;
+    background-color: rgba(239, 241, 237, 0.85);
+
+}
+
+
+.foot h1{
+	padding-top: 65px;
+}
+input{
+	margin-top: 75px;
+	text-transform: uppercase;
+	background-color: #6fb048;
+	color: #fff;
+	padding: 12px 45px;
+} input:hover{
+	background: transparent;
+	color: #0f5f5c;
+}
+.examples{
+	background: #fff;
+	padding-top: 100px;
+	padding-left: 20px;
+}
+.class1 h2{
+	font-size: 22px;
+	padding-left: 35px;
+}
+.class1 h3{
+	font-size: 15px;
+	color: #0f5f5c;
+	padding-left: 35px;
+	font-weight: bold;
+}
+.class1 ul li{
+	font-size: 13px;
+	color: #bdd0cf;
+	list-style: none;
+
+}
+li input{
+	background:#eef1ec;
+	color: #a7c0bd;
+	
+}
+.last span{
+	width: 1050px;
+	background: #eef1ec;
+}
+.free{
+	padding-top: 100px;
+}
+
+.footer{
+	background: #fff;
+}
+.conclution p{
+	font-size: 14px;
+	margin: left;
+	color: #50588b;
+}
+.connection{
+	margin-right: auto;
+	padding-top: 40px;
+	
+}
+
+.connection ul li{
+	display: inline-block;
+	text-decoration: none;
+	padding-left: 15px;
+
+}
+
+.connection ul li:hover{
+	background:#fff; 
+}
+.button{
+	width: 100%;
+}
+.connection ul li img{
+width:20px;
+
+}
+img {
+    width: 500px;
+}
+.img-fluid {
+    max-width: 20%;
+}

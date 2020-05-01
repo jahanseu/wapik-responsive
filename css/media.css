@@ -1,0 +1,283 @@
+
+
+
+	@media(max-width:1199px){
+		img {
+    width: 70px;
+}
+.content h1 {
+    font-size: 35px;
+}
+.content p {
+    font-size: 14px;
+}
+.content .btn-custom {
+    font-size: 14px;
+    padding: 10px 10px;
+}
+.feature h1 {
+    font-size: 27px;
+}
+.feature p {
+    font-size: 13px;
+}
+.feature h3 {
+    font-size: 22px;
+}
+.img-fluid {
+    max-width: 20%;
+}
+a img{
+	width: 80px;
+
+}
+img {
+    width: 400px;
+}
+.template p {
+    font-size: 14px;
+}
+.type ul li {
+    font-size: 14px;
+}
+.theme h5 {
+    font-size: 15px;
+}
+.theme {
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.container {
+    width: 90%;
+}
+.btn-price {
+    padding: 5px 5px;
+}
+.feature h1 {
+    font-size: 25px;
+}
+input {
+    padding: 5px 5px;
+    margin: auto;
+}
+.feature {
+    padding-bottom: 25px;
+}
+.foot h1 {
+    font-size: 22px;
+}
+
+.mapping {
+    padding-top: 160px;
+}
+input {
+    margin-top: 75px;
+}
+
+	}
+	@media(max-width:991px){
+	img {
+    width: 70px;
+}
+.content h1 {
+    font-size: 30px;
+}
+.content p {
+    font-size: 12px;
+}
+.content .btn-custom {
+    font-size: 10px;
+    padding: 8px 8px;
+}
+.feature h1 {
+    font-size: 27px;
+}
+.feature p {
+    font-size: 13px;
+}
+.feature h3 {
+    font-size: 22px;
+}
+.img-fluid {
+    max-width: 20%;
+}
+a img{
+	width: 80px;
+}
+img {
+    width: 350px;
+}
+.template p {
+    font-size: 14px;
+}
+.type ul li {
+    font-size: 14px;
+}
+.theme h5 {
+    font-size: 15px;
+}
+.theme {
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.container {
+    width: 90%;
+}
+.btn-price {
+    padding: 5px 5px;
+}
+.feature h1 {
+    font-size: 25px;
+}
+input {
+    padding: 5px 5px;
+    margin: auto;
+}
+.feature {
+    padding-bottom: 50px;
+}
+.foot h1 {
+    font-size: 20px;
+}
+
+.mapping {
+    padding-top: 160px;
+}
+input {
+    margin-top: 75px;
+}
+
+	}
+	@media(max-width:767px){
+	img {
+    width: 70px;
+}
+.content h1 {
+    font-size: 30px;
+}
+.content p {
+    font-size: 12px;
+}
+.content .btn-custom {
+    font-size: 10px;
+    padding: 8px 8px;
+}
+.feature h1 {
+    font-size: 27px;
+}
+.feature p {
+    font-size: 13px;
+}
+.feature h3 {
+    font-size: 22px;
+}
+.img-fluid {
+    max-width: 10%;
+}
+a img{
+	width: 80px;
+}
+img {
+    width: 350px;
+    padding-bottom: 50px;
+}
+.template p {
+    font-size: 14px;
+}
+.type ul li {
+    font-size: 14px;
+}
+.theme h5 {
+    font-size: 15px;
+}
+.theme {
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.container {
+    width: 90%;
+}
+.btn-price {
+    padding: 5px 5px;
+}
+.feature h1 {
+    font-size: 21px;
+}
+.feature h3 {
+    font-size: 15px;
+}
+input {
+    padding: 5px 5px;
+    margin: auto;
+}
+.feature {
+    padding-bottom: 50px;
+}
+.button {
+    padding-top: 60px;
+}
+
+}
+	@media(max-width:575px){
+img {
+    width: 70px;
+}
+.content h1 {
+    font-size: 30px;
+}
+.content p {
+    font-size: 12px;
+}
+.content .btn-custom {
+    font-size: 10px;
+    padding: 6px 6px;
+}
+.feature h1 {
+    font-size: 25px;
+}
+.feature p {
+    font-size: 12px;
+}
+.feature h3 {
+    font-size: 15px;
+}
+.img-fluid {
+    max-width: 10%;
+}
+a img{
+	width: 80px;
+}
+img {
+    width: 300px;
+    padding-bottom: 50px;
+}
+.template p {
+    font-size: 14px;
+}
+.type ul li {
+    font-size: 14px;
+}
+.theme h5 {
+    font-size: 15px;
+}
+.theme {
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.container {
+    width: 80%;
+}
+.btn-price {
+    padding: 5px 5px;
+}
+.feature h1 {
+    font-size: 20px;
+}
+input {
+    padding: 5px 5px;
+    margin: auto;
+}
+.feature {
+    padding-bottom: 50px;
+}
+}
